@@ -1,0 +1,1 @@
+Este sistema de automatización,controlado por Bluetooth,vamos a tener la posibilidad de controlar 3 relays mediante un celular o dispositivo capaz de descargar una aplicación de control. Contamos con un ESP32 para realizar la conexión entre el dispositivo y este, y así enviar las señales correspondientes para activar los relays. 
