@@ -11,6 +11,8 @@ Componentes electrónicos (rectificadores x3, transistores x3, resistencias x9, 
 Alimentación: fuente de 12v, fuente de 5v.
 Leds 9v, placa cobre doble faz, estaño, flux.
 
+Costo aproximado: $20.000
+
 *Tiempos: 
 Diseño placa, esquemático: 1 semanas.
 Armado PCB: 1 mes.
